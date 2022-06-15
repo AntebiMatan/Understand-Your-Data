@@ -31,5 +31,7 @@ $$\hat{\mathbf{\theta}} = (H^{T}H)^{-1}H^{T}\mathbf{y}$$
 ### Anscombe dataset
 Anscombe created four datasets which has several common moments (mean, variance correlation and etc). At a glance, it is noticeable that the four scatter plot graph (attached below and in the script) are not identical at all and do not behave similarly, but their __statistical__ charectaristic are the same. Implementaion of least square formula or fitting the model by regression line (is the same) and both get the same values for the two estimated parameters. 
 
+![Regression Lines](Regression Lines.jpg)
+
 
 
